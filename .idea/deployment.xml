@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fengjing@10.252.90.55:22">
+    <serverData>
+      <paths name="55">
+        <serverdata>
+          <mappings>
+            <mapping deploy="terrorism" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fengjing@10.252.90.55:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="terrorism" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="checkpoint" />
+            <excludedPath path="checkpoint_efficient_b2" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="fengjing@10.252.90.55:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/fengjing/terrorism" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
